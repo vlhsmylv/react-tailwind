@@ -3,6 +3,6 @@
 
 ###### How to start to use? 
 
-**Folk** this repo as template to your account and **clone** it into your device, then **start** to use it!
+**Fork** this repo as a template to your account and **clone** it into your device, then **start** to use it!
 
 👾 You can update README.md!
